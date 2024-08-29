@@ -1,0 +1,30 @@
+Script started on 2022-09-11 12:17:22+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
+[?2004h]0;subhajyoti@subhajyoti: ~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[01;32msubhajyoti@subhajyoti[00m:[01;34m~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[00m$ [K[A]0;subhajyoti@subhajyoti: ~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[01;32msubhajyoti@subhajyoti[00m:[01;34m~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[00m$ [K]0;subhajyoti@subhajyoti: ~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[01;32msubhajyoti@subhajyoti[00m:[01;34m~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[00m$ [K]0;subhajyoti@subhajyoti: ~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[01;32msubhajyoti@subhajyoti[00m:[01;34m~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learni
+ng-PyTorch/src[00m$ [K[A]0;subhajyoti@subhajyoti: ~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[01;32msubhajyoti@subhajyoti[00m:[01;34m~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[00m$ ifconfig
+[?2004lCommand 'ifconfig' not found, but can be installed with:
+sudo apt install net-tools
+[?2004h]0;subhajyoti@subhajyoti: ~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[01;32msubhajyoti@subhajyoti[00m:[01;34m~/Documents/Code/FL_with_rot_ckuster_head/Federated-Learning-PyTorch/src[00m$ [7msudo apt install net-tools[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt install net-tools
+[A
+[?2004l[sudo] password for subhajyoti: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  gcc-10-base gcc-9-base libasan5 libatk-wrapper-java libheimbase1-heimdal
+  libmpdec2 libnettle7 libxml-namespacesupport-perl libxml-sax-base-perl
+  syslinux-common syslinux-legacy
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  net-tools
+0 upgraded, 1 newly installed, 0 to remove and 3 not upgraded.
+Need to get 204 kB of archives.
+After this operation, 819 kB of additional disk space will be used.
+[33m0% [Working][0m            Get:1 http://in.archive.ubuntu.com/ubuntu jammy/main amd64 net-tools amd64 1.60+git20181103.0eebece-1ubuntu5 [204 kB]
+[33m2% [1 net-tools 4,096 B/204 kB 2%][0m[33m45% [1 net-tools 116 kB/204 kB 57%][0m[33m                                   100% [Working][0m              Fetched 204 kB in 1s (214 kB/s)
+
+7[0;23r8[1ASelecting previously unselected package net-tools.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 204811 files and directories currently installed.)
+Preparing to unpack .../net-tools_1.60+git20181103.0eebece-1ubuntu5_amd64.deb ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [ 20%][49m[39m [###########...............................................] 8Unpacking net-tools (1.60+git20181103.0eebece-1ubuntu5) ...
+7[24;0f[42m[30mProgress: [ 40%][49m[39m
